@@ -29,6 +29,7 @@ main {
         align-items: center;
         gap: 40px;
         justify-content: center;
+        padding: 15px 0;
     
         & #avatar {
             height: 150px;
