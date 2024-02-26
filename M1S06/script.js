@@ -1,1 +1,4 @@
-console.log("Olá Mundo!!")
+function bemVindo() {
+    alert('Seja bem vindo(a)!');
+
+}
